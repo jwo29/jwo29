@@ -17,7 +17,8 @@ Those languages and tech below are that I used at least once for my study and pr
 | **Education** 	| 2019.03~        	| Department of Software                                	| Sangmyung Univ.  	|
 | **Project**   	| 2019.12~2020.03 	| An App for finding a rented room near by the school   	| Bonbangsasu      	|
 | **Project**   	| 2020.02~2020.03  	| A mobile service that randomly recommends lunch menu  	| Sangmyung Univ.  	|
-| **Internship**  | 2022.01~          | Building an intelligent digital evidence integrated analysis platform based on bigdata | Mongta, Inc. |
+| **Internship**  | 2022.01~2022.03   | Building an intelligent digital evidence integrated analysis platform based on bigdata | Mongta, Inc. |
+| **Work**  | 2022.03~2023.02   | Building an intelligent digital evidence integrated analysis platform based on bigdata | Mongta, Inc. |
 
 ## 🍋 Wakatime
 
