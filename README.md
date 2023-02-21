@@ -1,6 +1,21 @@
-### 🖐 Hi there, I'm Jiwoo! I am a college student, and my major is software. Good day!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwo29&show_icons=true&theme=onedark)
+
+<!-- Productive Box -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jwo29&repo=productive-box)]([https://github.com/jwo29/productive-box](https://github.com/jwo29/productive-box))
+
+<!-- 온순이 프로젝트 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jwo29&repo=solomononsun)]([https://github.com/jwo29/solomononsun](https://github.com/jwo29/solomononsun))
+
+<!-- IoT 프로젝트 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jwo29&repo=IoT_Final_Project)]([https://github.com/jwo29/IoT_Final_Project](https://github.com/jwo29/IoT_Final_Project))
+
+<!-- 스프링부트 스터디 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jwo29&repo=study-spring)]([https://github.com/jwo29/study-spring](https://github.com/jwo29/study-spring))
+
+<!-- 왈도 프로젝트 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jwo29&repo=waldo_aztro-vuejs)]([https://github.com/jwo29/study-spring](https://github.com/jwo29/waldo_aztro-vuejs))
+
 
 ## 🍇 Language & Tech
 
@@ -12,13 +27,13 @@ Those languages and tech below are that I used at least once for my study and pr
 
 ## 🥝 Career
 
-| **Type**      	| **Date**       	| **Contents**                                          	| **Organization** 	|
-|---------------	|----------------	|-------------------------------------------------------	|------------------	|
-| **Education** 	| 2019.03~        	| Department of Software                                	| Sangmyung Univ.  	|
-| **Project**   	| 2019.12~2020.03 	| An App for finding a rented room near by the school   	| Bonbangsasu      	|
-| **Project**   	| 2020.02~2020.03  	| A mobile service that randomly recommends lunch menu  	| Sangmyung Univ.  	|
-| **Internship**  | 2022.01~2022.03   | Building an intelligent digital evidence integrated analysis platform based on bigdata | Mongta, Inc. |
-| **Work**  | 2022.03~2023.02   | Building an intelligent digital evidence integrated analysis platform based on bigdata | Mongta, Inc. |
+| **Type**      	| **Date**       	| **Contents**                                          	| **Organization** 	| **Tech** |
+|---------------	|----------------	|-------------------------------------------------------	|------------------	|----------| 
+| **Education** 	| 2019.03~        	| Department of Software                                	| Sangmyung Univ.  	| |
+| **Project**   	| 2019.12~2020.03 	| An App for finding a rented room near by the school   	| Bonbangsasu      	| Node.js |
+| **Project**   	| 2020.02~2020.03  	| A mobile service that randomly recommends lunch menu  	| Sangmyung Univ.  	| React, Javascript |
+| **Internship**  | 2022.01~2022.02   | Building an intelligent digital evidence integrated analysis platform based on bigdata | Mongta, Inc. | SpringBoot, Java,  Elasticsearch |
+| **Work**  | 2022.02~2023.02   | Building an intelligent digital evidence integrated analysis platform based on bigdata | Mongta, Inc. | SpringBoot, Java, Elasticsearch |
 
 ## 🍋 Wakatime
 
