@@ -21,11 +21,12 @@
 
 | **Type**      	| **Date**       	| **Contents**                                          	| **Organization** 	| **Tech** |
 |---------------	|----------------	|-------------------------------------------------------	|------------------	|----------| 
-| **Education** 	| 2019.03~        	| Department of Software                                	| Sangmyung Univ.  	| |
+| **Education** 	| 2019.03~2024.02        	| Department of Software                                	| Sangmyung Univ.  	| |
 | **Project**   	| 2019.12~2020.03 	| An App for finding a rented room near by the school   	| Bonbangsasu      	| Node.js |
 | **Project**   	| 2020.02~2020.03  	| A mobile service that randomly recommends lunch menu  	| Sangmyung Univ.  	| React, Javascript |
 | **Internship**  | 2022.01~2022.02   | Building an intelligent digital evidence integrated analysis platform based on bigdata | Mongta, Inc. | SpringBoot, Java,  Elasticsearch |
 | **Work**  | 2022.02~2023.02   | Building an intelligent digital evidence integrated analysis platform based on bigdata | Mongta, Inc. | SpringBoot, Java, Elasticsearch |
+| **Work**  | 2023.06~   | Building an Integrated Risk Management System from the scratch! | Refine, Inc. | SpringBoot, Java, Thymeleaf, PostgreSQL |
 
 
 ## 🍉 Contact
